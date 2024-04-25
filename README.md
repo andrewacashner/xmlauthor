@@ -9,12 +9,12 @@ April 2024
 ### Basically XHTML
 - If you can write a web page you can use this system
 - Does not reinvent the wheel
-- Semantic but not too fussy: You can think about what you mean without having
-  to look everything up in a complex schema like in TEI
 
 ### Flexible and convertible
 - Avoids the format lock-in of LaTeX or word processors
 - Converts to LaTeX, PDF, and HTML by default 
+- Semantic but not too fussy: You can think about what you mean without having
+  to look everything up in a complex schema like in TEI
 
 ### Automatic citation and bibliography creation: 
 - Using a single BibLaTeX database, just type `<citation key="author:year" />`
